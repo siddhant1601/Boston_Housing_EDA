@@ -35,3 +35,7 @@ The primary objective of this project is to conduct a comprehensive analysis of 
 ## Conclusion
 
 Through rigorous exploration and analysis of the Boston housing dataset, we have gained valuable insights into the intricate relationships between various features and housing prices in the Boston area. Our findings offer a deeper understanding of the factors driving the housing market dynamics, empowering stakeholders to make more informed decisions in the realm of real estate.
+
+## Created by:
+- Siddhant Singh
+- [@siddhant1601](https://github.com/siddhant1601)
